@@ -28,9 +28,7 @@
 
 #### Meus sites e blogs
 <ul>
-  <li><a href="http://www.luferat.net/" target="_blank">Meu perfil profissional e conteúdos</a></li>
-  <li><a href="" target="_blank"></a></li>
-  <li><a href="" target="_blank"></a></li>
-  <li><a href="" target="_blank"></a></li>
+  <li><a href="http://www.luferat.net/" target="_blank">Luferat.Net</a> &rarr; Meu perfil profissional e alguns conteúdos sobre TI</li>
+  <li><a href="http://www.catabits.com.br/" target="_blank">CataBits</a> &rarr; Blog sobre TI e cultura nerd</li>
 </li>
  
