@@ -10,6 +10,21 @@
   <li>Estou estudando e me aprofundando em Python, TypeScript e JavaScript.</li>
 </ul>
 
+#### Projetos em destaque:
+
+<ul>
+  <li><a href="https://github.com/Luferat/firstphpapp" target="_blank"><strong>First PHP App</strong></a><br>
+  Um cursinho para criação de um site de Internet fullstack usando PHP procedural e MySQL no servidor. Cada aula fica repositada em um branch do projeto, contendo as instruções e os códigos fonte.</li>
+</ul>
+<blockquote>Por falta de tempo de fazer sozinho, estou em busca de colaboradores para fazer um cursinho nos mesmos "moldes", mas, com PHP orientado a objetos.</blockquote>
+
+<ul>  
+ <li><a href="https://github.com/Luferat/ProjetoDois" target="_blank"><strong>ProjetoDois</strong></a><br>
+   Trata-se de um site de Internet SPA (Single Page Application) e PWA (Progressive Web Application) usando HTML5, CSS3 e <a href="http://vanilla-js.com/" target="_blank">Vanilla-JS</a> 😋, com o "velho" framework <a href="https://jquery.com/">jQuery</a>. No backend, usamos serviços do <a href="https://firebase.com/" target="_blank">Google Firebase</a>. Não é, nem pretende ser um produto final, é apenas um estudo de conceitos para ver a viabilidade de construir um app frontend nesses moldes, sem o uso de frameworks complexos como Angular, React, Vue, etc.</li>
+  </ul>
+  
+##  
+
 #### Meu status no GitHub:
 
 <div align="center">
