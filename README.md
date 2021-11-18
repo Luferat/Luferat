@@ -20,7 +20,7 @@
 
 <ul>  
  <li><a href="https://github.com/Luferat/ProjetoDois" target="_blank"><strong>ProjetoDois</strong></a><br>
-   Trata-se de um site de Internet SPA (Single Page Application) e PWA (Progressive Web Application) usando HTML5, CSS3 e <a href="http://vanilla-js.com/" target="_blank">Vanilla-JS</a> 😋, com o "velho" framework <a href="https://jquery.com/">jQuery</a>. No backend, usamos serviços do <a href="https://firebase.com/" target="_blank">Google Firebase</a>. Não é, nem pretende ser um produto final, é apenas um estudo de conceitos para ver a viabilidade de construir um app frontend nesses moldes, sem o uso de frameworks complexos como Angular, React, Vue, etc.</li>
+   Trata-se de um site de Internet SPA (Single Page Application) e PWA (Progressive Web Application) experimental usando HTML5, CSS3 e <a href="http://vanilla-js.com/" target="_blank">Vanilla-JS</a> 😋, com o "velho" framework <a href="https://jquery.com/">jQuery</a>. No backend, usamos serviços do <a href="https://firebase.com/" target="_blank">Google Firebase</a>. Não é, nem pretende ser um produto final, é apenas um estudo de conceitos para ver a viabilidade de construir um app frontend nesses moldes, sem o uso de frameworks complexos como Angular, React, Vue, etc.</li>
   </ul>
   
 ##  
