@@ -1,6 +1,6 @@
 ## Ola!
 
-### Sou o instrutor de TI André Luferat e você está no meu perfil do GitHub...
+### Sou o instrutor de TI André Luferat! bem-vinda(o) ao meu perfil do GitHub...
 
 #### Em um breve resumo, atualmente:
 
