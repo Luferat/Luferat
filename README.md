@@ -1,6 +1,6 @@
 ## Ola!
 
-### Sou o instrutor de TI André Luferat! bem-vinda(o) ao meu perfil do GitHub...
+### Sou o instrutor de TI André Luferat! Bem-vinda(o) ao meu perfil do GitHub...
 
 #### Em um breve resumo, atualmente:
 
@@ -17,8 +17,6 @@
   Um cursinho para criação de um site de Internet fullstack usando PHP procedural e MySQL no servidor. Cada aula fica repositada em um branch do projeto, contendo as instruções e os códigos fonte.</li>
 </ul>
 <blockquote>Por falta de tempo de fazer sozinho, estou em busca de colaboradores para fazer um cursinho nos mesmos "moldes", mas, com PHP orientado a objetos.</blockquote>
-
-##  
 
 #### Meu status no GitHub:
 
